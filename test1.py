@@ -1,7 +1,4 @@
 print("hello")
-abc
-aa
-cc
-ddd
-aewerwer 
-there is branch dev
+a=b
+c=1
+edit in dev branch
